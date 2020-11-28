@@ -12,10 +12,6 @@
 
     pulaLinha();
 
-    document.write("Vocês não sabem o que tive que aprender para fazer isso!");
-
-    pulaLinha();
-
     document.write("Contudo, assistindo os vídeos e estudando ...");
 
     pulaLinha();
